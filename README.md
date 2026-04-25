@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#">🚀 Ver Projeto</a>
+  <a href="http://127.0.0.1:5500/index.html">🚀 Ver Projeto</a>
 </p>
 
 <br>
