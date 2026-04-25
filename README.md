@@ -56,7 +56,9 @@ Este projeto foi desenvolvido com foco em:
 Para executar o projeto, basta abrir o arquivo abaixo no navegador:
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/projeto-easy-shopping-via-mobile">
-    📂 Ver repositório
+  <a href="http://127.0.0.1:5500/index.html" target="_blank">
+    🚀 Ver página
   </a>
 </p>
+
+<a href="#-easy-shopping-via-mobile">⬆️ Voltar ao topo</a>
