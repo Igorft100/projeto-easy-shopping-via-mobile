@@ -34,7 +34,7 @@
 
 ## :house: Sobre o Projeto
 
-O **Easy Shopping Via Mobile** é uma landing page moderna que simula uma experiência de compras em dispositivos móveis.
+O **Easy Shopping Via Mobile** foi desenvolvido durante as aulas do DevClub, ministradas por Rodolfo Mori, e consiste em uma landing page moderna que simula uma experiência de compras em computadores e dispositivos móveis.
 
 Este projeto foi desenvolvido com foco em:
 - Prática de HTML e CSS
@@ -46,8 +46,8 @@ Este projeto foi desenvolvido com foco em:
 
 ## :computer: Tecnologias
 
-- HTML5
-- CSS3
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo" />
 
 <br>
 
@@ -55,5 +55,8 @@ Este projeto foi desenvolvido com foco em:
 
 Para executar o projeto, basta abrir o arquivo abaixo no navegador:
 
-```bash
-index.html
+<p align="center">
+  <a href="https://github.com/seu-usuario/projeto-easy-shopping-via-mobile">
+    📂 Ver repositório
+  </a>
+</p>
