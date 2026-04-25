@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img alt="Layout" src="./assets/preview.png" width="700px">
+  <img src="[./assets/preview.png](https://github.com/Igorft100/projeto-easy-shopping-via-mobile/blob/main/assets/imagem%20do%20pr%C3%A9-proj-01.png?raw=true)" />
 </p>
 
 <br>
