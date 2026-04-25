@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html">🚀 Ver Projeto</a>
+  <a href="http://127.0.0.1:5500/index.html" target="_blank">🚀 Ver Projeto</a>
 </p>
 
 <br>
@@ -20,14 +20,14 @@
 
 <p align="center">
   <a href="#house-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img src="[./assets/preview.png](https://github.com/Igorft100/projeto-easy-shopping-via-mobile/blob/main/assets/imagem%20do%20pr%C3%A9-proj-01.png?raw=true)" />
+  <img src="https://github.com/Igorft100/projeto-easy-shopping-via-mobile/blob/main/assets/imagem%20do%20pr%C3%A9-proj-01.png?raw=true" alt="Logo-Projeto" width="800px" />
 </p>
 
 <br>
