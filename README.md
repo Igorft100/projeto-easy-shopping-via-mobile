@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">🚀 Ver Projeto</a>
+  <a href="https://igorft100.github.io/projeto-easy-shopping-via-mobile/" target="_blank">🚀 Ver Projeto</a>
 </p>
 
 <br>
@@ -56,7 +56,7 @@ Este projeto foi desenvolvido com foco em:
 Para executar o projeto, basta abrir o arquivo abaixo no navegador:
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">
+  <a href="https://igorft100.github.io/projeto-easy-shopping-via-mobile/" target="_blank">
     🚀 Ver página
   </a>
 </p>
